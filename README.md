@@ -1,8 +1,9 @@
 # Bar Crawl Research Project
 
 ## Authors
-Bosky Atlani
-Dean P. Simmer
+    
+    Bosky Atlani
+    Dean P. Simmer
 
 
 ### Reference
