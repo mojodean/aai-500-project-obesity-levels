@@ -1,4 +1,6 @@
-# Bar Crawl Research Project
+# Obesity Levels Research Project
+
+## AAI 500
 
 ## Authors
     
@@ -7,5 +9,4 @@
 
 
 ### Reference
-Bar Crawl: Detecting Heavy Drinking [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5TK6G.
-
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition  [Dataset]. (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5H31Z.
