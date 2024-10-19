@@ -2,7 +2,7 @@
 
 This project is part of the AAI-500 course in the [Applied Artificial Intelligence Program](https://onlinedegrees.sandiego.edu/masters-applied-artificial-intelligence/) at the University of San Diego (USD).
 
--- **Project Status: Active**
+-- **Project Status: Submitted**
 
 ## Installation
 
@@ -17,6 +17,8 @@ Ensure appropriate Python libraries are installed, including:
     pandas
     numpy
     scipy
+    statsmodels
+    sklearn
 
 Ensure you have a compatible IDE for reviewing Jupyter Notebook files.
 
@@ -27,7 +29,9 @@ Ensure you have a compatible IDE for reviewing Jupyter Notebook files.
 
 ## Methods Used
 
-TBD
+Linear Regression
+Decision Tree Classifier
+Random Forest Model
 
 ## Technologies
 
@@ -36,7 +40,9 @@ TBD
 
 ## Project Description
 
-TBD 
+This project was done as a graduate-course-level exercise in analysizing a public dataset for machine learning. We evaluated and cleansed the dataset, threw our methods against it, and drew conclusions in a technical paper that was submitted alongside this jupyter notebook.
+
+For this project, you can download the Jupyter notebook to review our code and analysis, and you may certainly submit issues or PRs if you have additional considerations or find any errors. While this is not an active project, its an example of a collaboration we did early on in our machine learning journey.
 
 ## License
 
